@@ -34,6 +34,11 @@ Library Management System using Java Servlet and MySql database
  - Download  Apache Tomcat from Oracle's official site [https://tomcat.apache.org/download-80.cgi]
  - Similarly Download and Install MySql database and Eclipse Enterprise Edition(opional).
 
+## Database Configuration
+ - The Library.sql file located within the web content file.Run the sql file in MySql Workbench or command line.
+ - In Eclipse,right-click on the project folder.Go to properties.Then click "java build path",then "Add External jars" and choose the mysql jar file located within the lib folder of project folder.
+ - In DB.java file, change the database name,username and password of MySql;
+
 ## About me
 
 - 🌱 I’m currently learning **React.js**
