@@ -4,6 +4,32 @@ Library Management System using Java Servlet and MySql database
 <h1 align="center">Hi 👋, I'm Varatharajan</h1>
 <h3 align="center">I'm a Student at CK College of Engineering and Technology</h3>
 
+## Table of Contents
+
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Setup](#setup)
+- [Database Configuration](#database-configuration)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- User authentication (login and registration)
+- Book management (add, edit, delete)
+- User management (view user details)
+- Borrow and return books
+- View borrowing history
+
+## Technologies Used
+
+- HTML
+- Java Servlets
+- Apache Tomcat Server 8.5
+- MySQL Database
+- JDBC for database connectivity
+
 - 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **Java,Python,JavaScript,C**
