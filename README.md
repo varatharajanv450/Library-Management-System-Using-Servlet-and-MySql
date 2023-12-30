@@ -30,7 +30,7 @@ Library Management System using Java Servlet and MySql database
 - MySQL Database
 - JDBC for database connectivity
 
-##About me
+## About me
 
 - 🌱 I’m currently learning **React.js**
 
