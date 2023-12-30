@@ -30,6 +30,10 @@ Library Management System using Java Servlet and MySql database
 - MySQL Database
 - JDBC for database connectivity
 
+## Setup
+ - Download  Apache Tomcat from Oracle's official site [https://tomcat.apache.org/download-80.cgi]
+ - Similarly Download and Install MySql database and Eclipse Enterprise Edition(opional).
+
 ## About me
 
 - 🌱 I’m currently learning **React.js**
