@@ -12,7 +12,7 @@ Library Management System using Java Servlet and MySql database
 - [Database Configuration](#database-configuration)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
@@ -29,7 +29,7 @@ Library Management System using Java Servlet and MySql database
 - Apache Tomcat Server 8.5
 - MySQL Database
 - JDBC for database connectivity
-- 
+
 ##About me
 
 - 🌱 I’m currently learning **React.js**
