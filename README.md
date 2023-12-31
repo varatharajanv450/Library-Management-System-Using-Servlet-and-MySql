@@ -41,8 +41,9 @@ Library Management System using Java Servlet and MySql database
 ## Usage
  - Deploy the project on your Apache Tomcat Server.
  - Access the application at [http://localhost:8080].
- - Login with the default admin credentials:
-   1.User
+ - Login with the default admin credentials:<br>
+   1.User Name: admin@gmail.com
+   2.Password: admin@123
 
 ## About me
 
