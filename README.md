@@ -13,7 +13,6 @@ Library Management System using Java Servlet and MySql database
 - [Usage](#usage)
 - [Contributing](#contributing)
 
-
 ## Features
 
 - User authentication (login and registration)
@@ -38,6 +37,12 @@ Library Management System using Java Servlet and MySql database
  - The Library.sql file located within the web content file.Run the sql file in MySql Workbench or command line.
  - In Eclipse,right-click on the project folder.Go to properties.Then click "java build path",then "Add External jars" and choose the mysql jar file located within the lib folder of project folder.
  - In DB.java file, change the database name,username and password of MySql;
+
+## Usage
+ - Deploy the project on your Apache Tomcat Server.
+ - Access the application at [http://localhost:8080].
+ - Login with the default admin credentials:
+   1.User
 
 ## About me
 
